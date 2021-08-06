@@ -121,8 +121,9 @@ Hacker Tracker contains the speaker schedules, as well as villages, parties,
 events, contests, maps, and other important con information.
 ```
 ## [Twitter](https://twitter.com/defcon) 
-## Discord - https://discord.gg/defcon
-[Human Plus](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)
+## [Discord](https://discord.gg/defcon)
+## [Human Plus - $20](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)
+
 https://plus.defcon.org/recover.html
 
 **Q: So what's Human Plus (Human+) exactly?**
