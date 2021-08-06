@@ -30,6 +30,7 @@ Table of Contents
          * [<a href="https://hacktheplanet.ctfd.io" rel="nofollow">ICS Village - CTF</a>](#ics-village---ctf)
          * [<a href="https://cisaicsctf.com" rel="nofollow">CISA ICS Capture the Flag</a>](#cisa-ics-capture-the-flag)
          * [<a href="https://www.eventbrite.com/e/iot-village-defcon-29-tickets-161533664539" rel="nofollow">IoT Village CTF</a>](#iot-village-ctf)
+         * [<a href="https://aisac.cyberskyline.com/events/aisac-defcon" rel="nofollow">A-ISAC CTF @ Aerospace Village</a>](#a--isac-ctf-@-aerospace-village)
          * [<a href="https://forum.defcon.org/node/238018" rel="nofollow">OpenSOC CTF</a>](#opensoc-ctf)
          * [<a href="https://redteamvillage.io/ctf.html" rel="nofollow">Red Team Village Capture the Flag (CTF)</a>](#red-team-village-capture-the-flag-ctf)
          * [<a href="https://scoreboard.rfhackers.com/" rel="nofolow">RF Village RFCTF</a>](#rf-village-ctf)
@@ -37,12 +38,12 @@ Table of Contents
       * [<a href="https://adversaryvillage.org/adversary-events/DEFCON-29/" rel="nofollow">Adversary Village</a>](#adversary-village)
          * [<a href="https://www.twitch.tv/adversaryvillage" rel="nofollow">Stream</a>](#stream)
       * [<a href="https://aerospacevillage.org/events/upcoming-events/def-con-29/def-con-29-schedule/" rel="nofollow">Aerospace Village</a>](#aerospace-village)
-      * [<a href="https://aivillage.org/defcon-29" rel="nofollow">AI Village</a>:](#ai-village)
+      * [<a href="https://aivillage.org/defcon-29" rel="nofollow">AI Village</a>](#ai-village)
          * [<a href="https://www.twitch.tv/aivillage" rel="nofollow">Stream</a>](#stream-1)
       * [<a href="https://www.appsecvillage.com/events/dc-2021" rel="nofollow">Appsec Village</a>](#appsec-village)
       * [<a href="https://www.blacksincyberconf.com/bic-village" rel="nofollow">B.I.C. (Blacks In Cybersecurity)</a>](#bic-blacks-in-cybersecurity)
          * [<a href="https://www.youtube.com/c/BlacksInCybersecurity" rel="nofollow">Stream</a>](#stream-2)
-      * [[<a href="https://www.villageb.io" rel="nofollow">Bio Hacking Village</a>]](#bio-hacking-village)
+      * [<a href="https://www.villageb.io" rel="nofollow">Bio Hacking Village</a>](#bio-hacking-village)
          * [<a href="https://wishyouwerehere.villageb.io/defcon/event/bhv-2021-1_defcon/room4.html" rel="nofollow">Stream</a>](#stream-3)
       * [<a href="https://www.carhackingvillage.com/defcon29" rel="nofollow">Car Hacking Village</a>](#car-hacking-village)
          * [<a href="https://discord.gg/JWCcTAM" rel="nofollow">Discord</a>](#discord)
@@ -255,6 +256,14 @@ HACK REAL MARITIME IT AND OT EQUIPMENT!
 
 * * *
 * * *
+#### [A-ISAC CTF @ Aerospace Village](https://aisac.cyberskyline.com/events/aisac-defcon)
+```
+Day 1: Aug. 6th, 2021 9am - 6pm PDT (UTC-7)
+Day 2: Aug. 7th, 2021 9am - 6pm PDT (UTC-7)
+```
+
+* * *
+* * *
 
 ####   [IoT Village CTF](https://www.eventbrite.com/e/iot-village-defcon-29-tickets-161533664539)
 ```
@@ -388,7 +397,7 @@ TA0005 - Defense Evasion
 * * *
 * * *
 
-### [AI Village](https://aivillage.org/defcon-29): 
+### [AI Village](https://aivillage.org/defcon-29)
 #### [Stream](https://www.twitch.tv/aivillage)  
 
 * * *
