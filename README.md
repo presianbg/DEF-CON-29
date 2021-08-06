@@ -1,14 +1,10 @@
-DEF CON 29
-
-[toc]
-
 # [Resources for 2021 Hacker Summer Camp](https://gitlab.com/CircuitSwan/hacker-con-birds-of-a-feather/-/blob/master/2021/hacker-summer-camp-readme.md)
 * * *
 * * *
 * * *
 
 
-# [MAIN EVENT SITE](https://defcon.org/html/defcon-29)
+# [DEF CON 29 MAIN EVENT SITE](https://defcon.org/html/defcon-29)
 
 ## [Schedule](https://defcon.org/html/defcon-29/dc-29-schedule.html)
 
@@ -35,9 +31,8 @@ events, contests, maps, and other important con information.
 ```
 ## [Twitter](https://twitter.com/defcon) 
 ## Discord - https://discord.gg/defcon
-[Human Plus](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html) 
-
-![7e8e266dc3a2b94c474122806ce1d236.png](../_resources/27f014c486a5441e8bba7c8d80d51200.png)
+[Human Plus](https://defcon.org/html/defcon-safemode/dc-safemode-plus.html)
+https://plus.defcon.org/recover.html
 
 **Q: So what's Human Plus (Human+) exactly?**
 **A: First and foremost it's a way to show your support for DEF CON.**
@@ -415,7 +410,7 @@ TA0005 - Defense Evasion
 ### [RED TEAM VILLAGE](https://redteamvillage.io)
 #### [Discord](https://discord.com/invite/BXf3Bz6U2H)
 #### [Twitter](https://twitter.com/RedTeamVillage_)
-#### Schedule
+#### [Schedule](https://redteamvillage.io/schedule.html)
 #### [Youtube stream](https://www.youtube.com/redteamvillage)
 #### [Twitch](https://www.twitch.tv/redteamvillage)
 
