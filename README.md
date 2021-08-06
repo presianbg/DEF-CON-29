@@ -32,6 +32,7 @@ Table of Contents
          * [<a href="https://www.eventbrite.com/e/iot-village-defcon-29-tickets-161533664539" rel="nofollow">IoT Village CTF</a>](#iot-village-ctf)
          * [<a href="https://forum.defcon.org/node/238018" rel="nofollow">OpenSOC CTF</a>](#opensoc-ctf)
          * [<a href="https://redteamvillage.io/ctf.html" rel="nofollow">Red Team Village Capture the Flag (CTF)</a>](#red-team-village-capture-the-flag-ctf)
+         * [<a href="https://scoreboard.rfhackers.com/" rel="nofolow">RF Village RFCTF</a>](#rf-village-ctf)
    * [<a href="https://forum.defcon.org/node/236369" rel="nofollow">Villages</a>](#villages)
       * [<a href="https://adversaryvillage.org/adversary-events/DEFCON-29/" rel="nofollow">Adversary Village</a>](#adversary-village)
          * [<a href="https://www.twitch.tv/adversaryvillage" rel="nofollow">Stream</a>](#stream)
@@ -88,6 +89,10 @@ Table of Contents
          * [<a href="https://dc29.blueteamvillage.org/call-for-content-2021/schedule/" rel="nofollow">Schedule</a>](#schedule-2)
          * [<a href="https://twitch.tv/blueteamvillage" rel="nofollow">Stream</a>](#stream-18)
          * [<a href="https://www.eventbrite.com/o/blue-team-village-at-def-con-23237171494" rel="nofollow">Workshop Registration</a>](#workshop-registration)
+      * [<a href="https://rfhackers.com/" rel="nofollow">RF Village</a>](#rf-village)
+        *  [<a href="https://discord.gg/4SB9gawaHn" rel="nofollow">Discord</a>](#discord-3)
+        *  [<a href="https://twitter.com/rfhackers" rel="nofollow">Twitter</a>](#twitter-4)
+        *  [<a href="https://www.youtube.com/channel/UCiLDNuFNL_is1y58nQoDkbg" rel="nofollow">Stream</a>](#stream-19)
 
 
 # [Resources for 2021 Hacker Summer Camp](https://gitlab.com/CircuitSwan/hacker-con-birds-of-a-feather/-/blob/master/2021/hacker-summer-camp-readme.md)
@@ -517,3 +522,12 @@ TA0005 - Defense Evasion
 #### [Schedule](https://dc29.blueteamvillage.org/call-for-content-2021/schedule/)
 #### [Stream](https://twitch.tv/blueteamvillage )
 #### [Workshop Registration](https://www.eventbrite.com/o/blue-team-village-at-def-con-23237171494)
+
+* * *
+* * *
+
+### [RF Village](https://rfhackers.com/)
+#### [Discord](https://discord.gg/4SB9gawaHn)
+#### [Twitter](https://twitter.com/rfhackers)
+#### [Stream](https://www.youtube.com/channel/UCiLDNuFNL_is1y58nQoDkbg)
+#### [RF CTF](https://scoreboard.rfhackers.com/)
