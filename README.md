@@ -4,7 +4,7 @@ Table of Contents
 * [<a href="https://gitlab.com/CircuitSwan/hacker-con-birds-of-a-feather/-/blob/master/2021/hacker-summer-camp-readme.md" rel="nofollow">Resources for 2021 Hacker Summer Camp</a>](#resources-for-2021-hacker-summer-camp)
 * [<a href="https://defcon.org/html/defcon-29" rel="nofollow">DEF CON 29 MAIN EVENT SITE</a>](#def-con-29-main-event-site)
    * [<a href="https://defcon.org/html/defcon-29/dc-29-schedule.html" rel="nofollow">Schedule</a>](#schedule)
-   * [Steams](#steams)
+   * [Streams](#steams)
       * [DEF CON Main: <a href="https://www.twitch.tv/defconorg" rel="nofollow">https://www.twitch.tv/defconorg</a>](#def-con-main-httpswwwtwitchtvdefconorg)
       * [DEF CON DCTV One: <a href="https://www.twitch.tv/defcon_dctv_one" rel="nofollow">https://www.twitch.tv/defcon_dctv_one</a>](#def-con-dctv-one-httpswwwtwitchtvdefcon_dctv_one)
       * [DEF CON DCTV Two: <a href="https://www.twitch.tv/defcon_dctv_two" rel="nofollow">https://www.twitch.tv/defcon_dctv_two</a>](#def-con-dctv-two-httpswwwtwitchtvdefcon_dctv_two)
@@ -99,7 +99,7 @@ Table of Contents
 
 ## [Schedule](https://defcon.org/html/defcon-29/dc-29-schedule.html)
 
-## Steams
+## Streams
 ### DEF CON Main: https://www.twitch.tv/defconorg
 ### DEF CON DCTV One: https://www.twitch.tv/defcon_dctv_one 
 ### DEF CON DCTV Two: https://www.twitch.tv/defcon_dctv_two 
