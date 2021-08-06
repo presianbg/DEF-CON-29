@@ -16,6 +16,7 @@ Table of Contents
    * [<a href="https://hackertracker.app" rel="nofollow">Hacker Tracker App</a>](#hacker-tracker-app)
    * [<a href="https://twitter.com/defcon" rel="nofollow">Twitter</a>](#twitter)
    * [Discord - <a href="https://discord.gg/defcon" rel="nofollow">https://discord.gg/defcon</a>](#discord---httpsdiscordggdefcon)
+   * [<a href="https://defcon.org/html/defcon-safemode/dc-safemode-plus.html" rel="nofollow">Human Plus - $20</a>](#human-plus---20)
    * [<a href="https://forum.defcon.org/node/236370" rel="nofollow">Contests</a>](#contests)
       * [<a href="https://www.cyberwarriornetwork.com/def-con-29-red-team-village/" rel="nofollow">Red Team Village CyberWraith</a>](#red-team-village-cyberwraith)
       * [CTFs:](#ctfs)
